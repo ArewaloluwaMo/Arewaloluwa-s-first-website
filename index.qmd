@@ -1,0 +1,15 @@
+---
+title: "Arewaloluwa's first website"
+---
+
+## Name
+Arewaloluwa Mowelola Alabi
+
+## Credentials 
+- Master of Arts in Applied Economics - University of Winnipeg
+-Graduate student in Applied Economics
+-Bachelor of Science (BSc) in Economics - Caleb University - First Class Honours
+- Technical Skills: R, RStudio, Git/GitHub, Quarto
+
+## About Me
+My name is Arewaloluwa Mowelola Alabi, I am a graduate student purshing a Master of Arts in Applied Economics at the University of Winnipeg. I am developing my knowledge and skills in economics. This website will serve as a space to document my academic work and assignments.  
