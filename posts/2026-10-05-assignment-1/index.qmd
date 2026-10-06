@@ -4,4 +4,4 @@ author: "Arewaloluwa Mowelola Alabi"
 description: "GECON 7201 Assignment 1"
 ---
 
-## [GECON 7201 Assignment 1 PDF](files/gecon_7201_assignment_1-2--Started-.pdf)
+## [GECON 7201 Assignment 1 PDF](../../files/gecon_7201_assignment_1-2--Started-.pdf)
