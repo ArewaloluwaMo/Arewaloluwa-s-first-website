@@ -1,0 +1,15 @@
+---
+title: "Assignment 2"
+format: html
+editor: visual
+---
+
+# ECON 7201 - Applied Econometrics
+
+## Assignment 2
+
+This post contains my Applied Econometrics Assignment 2.
+
+- [Download Assignment 2 PDF](econ_7201_assignment_2_Arewaloluwa.pdf)
+
+- [Download Assignment 2 Quarto File](econ_7201_assignment_2_Arewaloluwa.qmd)
