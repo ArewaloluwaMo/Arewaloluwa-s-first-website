@@ -1,7 +1,8 @@
 project:
   type: website
   output-dir: docs
-
+  resources: 
+  - "posts/2026-10-31-assignment-2/econ_7201_assignment_2_Arewaloluwa.qmd"
 website:
   title: "Arewaloluwa's first website"
   navbar:
